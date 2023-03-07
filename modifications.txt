@@ -1,0 +1,5 @@
+1. Add Docker file - Done.
+2. Add Pytest.
+3. Add flavor.
+4. Add Bootstrap
+6. Use dotenv for Docker upload.

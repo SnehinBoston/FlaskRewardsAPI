@@ -1,0 +1,391 @@
+  [{
+    "customerId": 1,
+    "category": "Clothing",
+    "amount": 200,
+    "weekNo": 1,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Food",
+    "amount": 200,
+    "weekNo": 2,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Sports",
+    "amount": 200,
+    "weekNo": 3,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Cleaning",
+    "amount": 200,
+    "weekNo": 4,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Clothing",
+    "amount": 200,
+    "weekNo": 5,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Food",
+    "amount": 200,
+    "weekNo": 6,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Sports",
+    "amount": 200,
+    "weekNo": 7,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Clothing",
+    "amount": 200,
+    "weekNo": 8,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Sports",
+    "amount": 200,
+    "weekNo": 9,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Food",
+    "amount": 200,
+    "weekNo": 10,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Cleaning",
+    "amount": 200,
+    "weekNo": 11,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Sports",
+    "amount": 200,
+    "weekNo": 12,
+    "points": 0
+  },{
+    "customerId": 1,
+    "category": "Food",
+    "amount": 200,
+    "weekNo": 13,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Food",
+    "amount": 120,
+    "weekNo": 1,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Cleaning",
+    "amount": 20,
+    "weekNo": 2,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Clothing",
+    "amount": 300,
+    "weekNo": 3,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Sports",
+    "amount": 150,
+    "weekNo": 4,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Food",
+    "amount": 70,
+    "weekNo": 5,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Cleaning",
+    "amount": 90,
+    "weekNo": 6,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Clothing",
+    "amount": 130,
+    "weekNo": 7,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Sports",
+    "amount": 60,
+    "weekNo": 8,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Sports",
+    "amount": 320,
+    "weekNo": 9,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Food",
+    "amount": 210,
+    "weekNo": 10,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Cleaning",
+    "amount": 20,
+    "weekNo": 11,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Sports",
+    "amount": 180,
+    "weekNo": 12,
+    "points": 0
+  },{
+    "customerId": 2,
+    "category": "Food",
+    "amount": 200,
+    "weekNo": 13,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 320,
+    "weekNo": 1,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 120,
+    "weekNo": 2,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 150,
+    "weekNo": 3,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 150,
+    "weekNo": 4,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 170,
+    "weekNo": 5,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 190,
+    "weekNo": 6,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 230,
+    "weekNo": 7,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 160,
+    "weekNo": 8,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 225,
+    "weekNo": 9,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 260,
+    "weekNo": 10,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 200,
+    "weekNo": 11,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 90,
+    "weekNo": 12,
+    "points": 0
+  },{
+    "customerId": 3,
+    "category": "Clothing",
+    "amount": 200,
+    "weekNo": 13,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 220,
+    "weekNo": 1,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 320,
+    "weekNo": 2,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 350,
+    "weekNo": 3,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 50,
+    "weekNo": 4,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 70,
+    "weekNo": 5,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 90,
+    "weekNo": 6,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 330,
+    "weekNo": 7,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 169,
+    "weekNo": 8,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 227,
+    "weekNo": 9,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 263,
+    "weekNo": 10,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 207,
+    "weekNo": 11,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 90,
+    "weekNo": 12,
+    "points": 0
+  },{
+    "customerId": 4,
+    "category": "Sports",
+    "amount": 130,
+    "weekNo": 13,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Food",
+    "amount": 120,
+    "weekNo": 1,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Sports",
+    "amount": 220,
+    "weekNo": 2,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Cleaning",
+    "amount": 150,
+    "weekNo": 3,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Food",
+    "amount": 70,
+    "weekNo": 4,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Sports",
+    "amount": 170,
+    "weekNo": 5,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Cleaning",
+    "amount": 190,
+    "weekNo": 6,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Food",
+    "amount": 33,
+    "weekNo": 7,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Sports",
+    "amount": 69,
+    "weekNo": 8,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Cleaning",
+    "amount": 135,
+    "weekNo": 9,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Food",
+    "amount": 265,
+    "weekNo": 10,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Sports",
+    "amount": 217,
+    "weekNo": 11,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Cleaning",
+    "amount": 190,
+    "weekNo": 12,
+    "points": 0
+  },{
+    "customerId": 5,
+    "category": "Sports",
+    "amount": 135,
+    "weekNo": 13,
+    "points": 0
+  }]
